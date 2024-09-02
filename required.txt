@@ -1,0 +1,10 @@
+```
+pip install crewai
+pip install crewai[tools]
+=>colab.research.google
+
+
+
+#notes
+autoGen
+pip install pyautogen
